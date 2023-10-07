@@ -1,11 +1,11 @@
 <h1 align="center">Hi World👋,</h1>
-<h3 align="center">I'm Saif Eddine Matab u can call me Kernel, a 19-year-old student based in Paris. My world revolves around the fascinating realms of MLOps and DevOps. As a Python enthusiast, I'm on a constant journey of exploration and learning.</h3>
+<h3 align="center">I'm Saif Eddine Matab u can call me Kernel, a 19-year-old student based in Paris. My world revolves around the fascinating realms of ML and Data science. As a Python enthusiast, I'm on a constant journey of exploration and learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kernel-rb&label=Profile%20views&color=0e75b6&style=flat" alt="kernel-rb" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kernel.rb" target="blank"><img src="https://img.shields.io/twitter/follow/kernel.rb?logo=twitter&style=for-the-badge" alt="kernel.rb" /></a> </p>
 
-- 🌱 I’m currently learning **Tensorflow , Go**
+- 🌱 I’m currently learning **Full-stuck , Rust**
 
 - 📫 How to reach me **matabsaifeddine@gmail.com**
 
