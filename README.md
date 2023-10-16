@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hy , I'm Saif Eddine Matab u can call me Kernel, a 19-year-old student based in Paris. My world revolves around the fascinating realms of ML and Data science. As a Python enthusiast, I'm on a constant journey of exploration and learning.<br>🌱 I’m currently learning  Matplolib & R<br>📫 How to reach me matabsaifeddine@gmail.com
+Hy , I'm Saif Eddine Matab u can call me Kernel, a 19-year-old student based in Paris. My world revolves around the fascinating realms of ML and Data science. As a Python enthusiast, I'm on a constant journey of exploration and learning.<br>🌱・ I’m currently learning  Matplolib & R<br>📫・ How to reach me matabsaifeddine@gmail.com
 
 
 ## 🌐 Socials:
