@@ -2,40 +2,101 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
 </a>
 
-![github_banner](https://github.com/abdellatif-laghjaj/abdellatif-laghjaj/assets/79521157/1b4f599a-5739-444a-8d51-f02d1d4f0c92)
+***[*Imaginify*: A Full Stack MERN AI Image Generation App](https://imaginify-client.vercel.app/create-post)***
+*## Overview* 🚀
 
+*Imaginify* is a Full Stack MERN (MongoDB, Express.js, React, Node.js) application designed for AI image generation. This project is a MidJourney & DALL E Clone, bringing together powerful technologies to create an innovative image generation experience.
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+SAIF++MATAB+,+U+Can++call+me+kernel;Aspiring++ML+Engineer;My+world+revolves+around+ML+and+Data+science;Full+Stuck+Dev;Be+Welcome!+ツ) 
+*## Project Structure* 📂
 
-<div align="center">
-  <br>
-  <a href="#">
-    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kernel-rb&show_icons=true&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true"/>
-  </a>
-  <a href="#">
-    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kernel-rb&langs_count=8&count_private=false&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
-  </a>
-  <a>
-     <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kernel-rb&theme=github_dark&show_icons=true" />
-  </a>
-</div> 
-   
-<br>
-<br>
-  
-<div style="display: inline_block">
-  <p align="center">
-	<a href="#">
-      <img align="center" src="https://skillicons.dev/icons?i=js,ts,vue,react,nodejs,tailwind,php,flutter,dart,mysql,python,gitlab,git,c,rust,sqlite,flask,powershell,linux,tensorflow" />
-    </a>
-  </p>
-</div>
+The repository is organized into two main folders:
 
-<br>
-<p align='center'>
-<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-<br>
-  
+1. **Server:**
+   - The server-side of the application is built using Node.js and Express.js.
+   - It handles API requests, interacts with the database, and integrates with the OpenAI API for image generation.
+
+2. **Client:**
+   - The client-side of the application is a React-based front-end.
+   - It provides a user-friendly interface for interacting with the AI image generation features.
+
+*## Features* 🌟
+
+- **AI Image Generation:**
+  - Leveraging the capabilities of OpenAI, *Imaginify* enables users to generate unique and creative images using state-of-the-art models.
+
+- **MidJourney Integration:**
+  - MidJourney integration enhances the user experience with additional features and functionalities.
+
+- **DALL E Clone:**
+  - Incorporating concepts from DALL E, the app brings cutting-edge image synthesis capabilities to users.
+
+*## Getting Started* 🛠️
+
+*### Prerequisites*
+
+- Node.js and npm installed on your machine.
+- MongoDB installed locally or accessible remotely.
+
+*### Installation*
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/Kernel-rb/Imaginify.git
+    ```
+
+2. Install dependencies for the server:
+
+    ```bash
+    cd Imaginify/server
+    npm install
+    ```
+
+3. Install dependencies for the client:
+
+    ```bash
+    cd ../client
+    npm install
+    ```
+
+*### Configuration*
+
+1. Create a `.env` file in the `server` directory and add the following:
+
+    ```env
+    PORT=3001
+    MONGODB_URI=<your_mongodb_uri>
+    OPENAI_API_KEY=<your_openai_api_key>
+    ```
+
+2. Replace `<your_mongodb_uri>` and `<your_openai_api_key>` with your MongoDB connection URI and OpenAI API key.
+
+*### Running the Application*
+
+1. Start the server:
+
+    ```bash
+    cd ../server
+    npm start
+    ```
+
+2. Start the client:
+
+    ```bash
+    cd ../client
+    npm start
+    ```
+
+3. Visit `http://localhost:3000` in your browser to use the *Imaginify* app.
+
+*## Contributing* 🤝
+
+If you would like to contribute to *Imaginify*, feel free to submit issues or pull requests. Your contributions are welcome!
+
+*## License* 📄
+
+This project is licensed under the [MIT License](LICENSE).
+
 <div> 
 <p align="center">
 <a href="https://twitter.com/kernelrb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bholajaivardhan" height="30" width="40" /></a>
@@ -44,17 +105,7 @@
 <a href="https://leetcode.com/Kernel-rb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jaivardhan-bhola" height="30" width="40" /></a>
 </p>
 </div>
-<div align=center>
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-    
- 
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/Kernel-rb/count.svg" />  
-</p>
-
 
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
 </a>
-
