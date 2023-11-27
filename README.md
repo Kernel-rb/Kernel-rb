@@ -2,8 +2,8 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
 </a>
 
-***[*Imaginify*: A Full Stack MERN AI Image Generation App](https://imaginify-client.vercel.app/create-post)***
-*## Overview* 🚀
+[Imaginify: A Full Stack MERN AI Image Generation App](https://imaginify-client.vercel.app)
+## Overview 🚀
 
 *Imaginify* is a Full Stack MERN (MongoDB, Express.js, React, Node.js) application designed for AI image generation. This project is a MidJourney & DALL E Clone, bringing together powerful technologies to create an innovative image generation experience.
 
@@ -30,9 +30,9 @@ The repository is organized into two main folders:
 - **DALL E Clone:**
   - Incorporating concepts from DALL E, the app brings cutting-edge image synthesis capabilities to users.
 
-*## Getting Started* 🛠️
+## Getting Started 🛠️
 
-*### Prerequisites*
+### Prerequisites
 
 - Node.js and npm installed on your machine.
 - MongoDB installed locally or accessible remotely.
@@ -59,7 +59,7 @@ The repository is organized into two main folders:
     npm install
     ```
 
-*### Configuration*
+### Configuration
 
 1. Create a `.env` file in the `server` directory and add the following:
 
@@ -71,7 +71,7 @@ The repository is organized into two main folders:
 
 2. Replace `<your_mongodb_uri>` and `<your_openai_api_key>` with your MongoDB connection URI and OpenAI API key.
 
-*### Running the Application*
+### Running the Application
 
 1. Start the server:
 
@@ -89,11 +89,11 @@ The repository is organized into two main folders:
 
 3. Visit `http://localhost:3000` in your browser to use the *Imaginify* app.
 
-*## Contributing* 🤝
+## Contributing 🤝
 
 If you would like to contribute to *Imaginify*, feel free to submit issues or pull requests. Your contributions are welcome!
 
-*## License* 📄
+## License 📄
 
 This project is licensed under the [MIT License](LICENSE).
 
