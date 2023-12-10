@@ -1,3 +1,3 @@
 ```python
-Error  :(
+Error 404   :(
 ```
