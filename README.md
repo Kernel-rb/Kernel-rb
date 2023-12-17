@@ -10,6 +10,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kernel-rb)]
 
-
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kernel-rb)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kernel-rb&show_icons=true&theme=radical)
