@@ -8,6 +8,6 @@
   </a>
 </p>
 
-<div align="center">
+<a align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kernel-rb&show_icons=true&theme=tokyonight)
-</div>
+</a>
