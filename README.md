@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+
   
 ```python
                                                             Error 404   :(
@@ -10,6 +10,8 @@
   </a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kernel-rb&show_icons=true&theme=tokyonight)
+<div style="text-align: center;">
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kernel-rb&show_icons=true&theme=tokyonight)
 
 </div>
