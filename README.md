@@ -8,7 +8,8 @@
   </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kernel-rb)](https://github.com/Kernel-rb/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kernel-rb)]
 
 
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kernel-rb)]
