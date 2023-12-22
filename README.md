@@ -14,6 +14,6 @@
   <img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Kernel-rb&show_icons=true&theme=tokyonight">
  
 </p>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kernel-rb&hide=css,html)
 
 
