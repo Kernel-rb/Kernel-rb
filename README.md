@@ -12,5 +12,6 @@
 
 <p align="center">
   <img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Kernel-rb&show_icons=true&theme=tokyonight">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kernel-rb)
 </p>
 
