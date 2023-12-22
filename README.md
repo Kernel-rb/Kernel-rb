@@ -12,7 +12,9 @@
 
 <p align="center">
   <img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Kernel-rb&show_icons=true&theme=tokyonight">
-  [![Kernel-rbGitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Kernel-rb&hide=html,scss,stylus,blade,dart,css,javascript,cmake&theme=tokyonight&show_icons=true)](https://github.com/Kernel-rb)
+ 
 </p>
 
 
+ <!--[![Kernel-rbGitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Kernel-rb&hide=html,scss,stylus,blade,dart,css,javascript,cmake&theme=tokyonight&show_icons=true)](https://github.com/Kernel-rb)-->
+ 
