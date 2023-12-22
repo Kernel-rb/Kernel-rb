@@ -15,4 +15,4 @@
  
 </p>
 
-[![Kernel-rbGitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Kernel-rb&hide=html,scss,stylus,blade,css,javascript,cmake&theme=tokyonight&show_icons=true)](https://github.com/Kernel-rb)
+[![Kernel-rbGitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Kernel-rb&hide=html,scss,stylus,blade,dart,css,javascript,cmake&theme=tokyonight&show_icons=true)](https://github.com/Kernel-rb)
