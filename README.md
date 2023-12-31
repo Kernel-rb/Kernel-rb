@@ -16,7 +16,7 @@
 
 <!--START_SECTION:waka-->
 
-```txt
+```python
 From: 21 December 2023 - To: 30 December 2023
 
 Total Time: 10 hrs 16 mins
