@@ -12,9 +12,7 @@
   <img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Kernel-rb&show_icons=true&theme=tokyonight">
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kernel-rb&label=PROFILE+VIEWS" alt="Profile Views">
-</div>
+
 
 <!--START_SECTION:waka-->
 
@@ -27,3 +25,8 @@ JSON         18 mins         █░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kernel-rb&label=PROFILE+VIEWS" alt="Profile Views">
+</div>
