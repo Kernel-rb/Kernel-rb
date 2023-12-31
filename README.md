@@ -17,11 +17,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python       5 hrs 38 mins   ████████████████░░░░░░░░░   63.51 %
-JavaScript   1 hr 7 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.61 %
-EJS          55 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.40 %
-TypeScript   36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
-JSON         18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
+From: 21 December 2023 - To: 30 December 2023
+
+Total Time: 10 hrs 16 mins
+
+Python       6 hrs 27 mins   >>>>>>>>>>>>>>>>---------   62.05 %
+JavaScript   1 hr 7 mins     >>>----------------------   10.76 %
+EJS          55 mins         >>-----------------------   08.87 %
+TypeScript   39 mins         >>-----------------------   06.37 %
+JSON         18 mins         >------------------------   03.00 %
 ```
 
 <!--END_SECTION:waka-->
