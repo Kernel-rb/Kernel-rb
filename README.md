@@ -1,5 +1,3 @@
-
-  
 ```python
                                                             Error 404   :(
 ```
@@ -18,5 +16,5 @@
   <img src="https://komarev.com/ghpvc/?username=Kernel-rb&label=PROFILE+VIEWS" alt="Profile Views">
 </div>
 
-
- 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
