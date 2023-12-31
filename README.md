@@ -18,6 +18,6 @@
   <img src="https://komarev.com/ghpvc/?username=Kernel-rb&label=PROFILE+VIEWS" alt="Profile Views">
 </div>
 
-
- <!--[![Kernel-rbGitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Kernel-rb&hide=html,scss,stylus,blade,dart,css,javascript,cmake&theme=tokyonight&show_icons=true)](https://github.com/Kernel-rb)-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
  
