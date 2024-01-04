@@ -17,15 +17,15 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 21 December 2023 - To: 01 January 2024
+From: 21 December 2023 - To: 02 January 2024
 
-Total Time: 13 hrs 41 mins
+Total Time: 20 hrs 12 mins
 
-Python       6 hrs 32 mins   >>>>>>>>>>>>-------------   47.23 %
-HTML         3 hrs 1 min     >>>>>--------------------   21.78 %
-JavaScript   1 hr 8 mins     >>-----------------------   08.30 %
-EJS          55 mins         >>-----------------------   06.66 %
-TypeScript   42 mins         >------------------------   05.07 %
+Python       9 hrs 28 mins   >>>>>>>>>>>>-------------   46.47 %
+HTML         5 hrs 15 mins   >>>>>>-------------------   25.80 %
+JavaScript   1 hr 9 mins     >------------------------   05.66 %
+CSS          1 hr 2 mins     >------------------------   05.11 %
+EJS          55 mins         >------------------------   04.53 %
 ```
 
 <!--END_SECTION:waka-->
