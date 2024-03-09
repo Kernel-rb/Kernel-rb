@@ -1,6 +1,4 @@
-```python
-                                                            Error 404   :(
-```
+Hello, I'm Saif Eddine Matab, aka Kernel.rs, a 19-year-old Computer Science student passionate about MLOps and Site Reliability Engineering. My skills include Python (intermediate to professional) and Rust/C, Java, and JavaScript (beginner to intermediate). I'm active on LeetCode and HackerRank to sharpen my skills. Follow my coding journey on GitHub and YouTube. Soon, I'll share blogs on LinkedIn.
 
 <p align="center">
   <a href="https://skillicons.dev">
