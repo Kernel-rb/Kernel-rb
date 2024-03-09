@@ -9,7 +9,7 @@ I actively participate in coding challenges on LeetCode and HackerRank to sharpe
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,ts,rust,c,java" />
+    <img src="https://skillicons.dev/icons?i=py,js,rust,c,java" />
   </a>
 </p>
 
