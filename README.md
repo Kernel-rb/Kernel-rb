@@ -6,7 +6,7 @@ I'm a 19-year-old Computer Science student passionate about MLOps and Site Relia
 - Rust/C, Java, and JavaScript (beginner to intermediate)
 
 I actively participate in coding challenges on LeetCode and HackerRank to sharpen my skills. Follow my coding journey on [GitHub](https://github.com/Kernel-rb) and [YouTube](https://www.youtube.com/channel/UCnnPEdrDX0LJd2yJ7Q_TnKg). Soon, I'll be sharing blogs on [LinkedIn](https://www.linkedin.com/in/saif-matab/).
-
+<br> <br>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,js,rust,c,java" />
