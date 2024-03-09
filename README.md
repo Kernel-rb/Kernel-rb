@@ -1,4 +1,11 @@
-Hello, I'm Saif Eddine Matab, aka Kernel.rs, a 19-year-old Computer Science student passionate about MLOps and Site Reliability Engineering. My skills include Python (intermediate to professional) and Rust/C, Java, and JavaScript (beginner to intermediate). I'm active on LeetCode and HackerRank to sharpen my skills. Follow my coding journey on GitHub and YouTube. Soon, I'll share blogs on LinkedIn.
+# Hello, I'm Saif Eddine Matab, aka Kernel.rs 👋
+
+I'm a 19-year-old Computer Science student passionate about MLOps and Site Reliability Engineering. Here's a glimpse of my skills:
+
+- Python (intermediate to professional)
+- Rust/C, Java, and JavaScript (beginner to intermediate)
+
+I actively participate in coding challenges on LeetCode and HackerRank to sharpen my skills. Follow my coding journey on [GitHub](https://github.com/Kernel-rb) and [YouTube](YOUR_YOUTUBE_CHANNEL_LINK_HERE). Soon, I'll be sharing blogs on LinkedIn.
 
 <p align="center">
   <a href="https://skillicons.dev">
