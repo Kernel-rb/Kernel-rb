@@ -22,15 +22,15 @@ I actively participate in coding challenges on LeetCode and HackerRank to sharpe
 <!--START_SECTION:waka-->
 
 ```python
-From: 21 December 2023 - To: 09 March 2024
+From: 21 December 2023 - To: 10 March 2024
 
-Total Time: 170 hrs 8 mins
+Total Time: 172 hrs 33 mins
 
-Python       33 hrs 50 mins  >>>>>--------------------   19.71 %
-Dart         29 hrs 54 mins  >>>>---------------------   17.42 %
-JavaScript   28 hrs 9 mins   >>>>---------------------   16.40 %
-Rust         21 hrs 48 mins  >>>----------------------   12.70 %
-CSS          14 hrs 16 mins  >>-----------------------   08.32 %
+Python       34 hrs 23 mins  >>>>>--------------------   19.75 %
+Dart         29 hrs 54 mins  >>>>---------------------   17.17 %
+JavaScript   29 hrs 23 mins  >>>>---------------------   16.88 %
+Rust         22 hrs 21 mins  >>>----------------------   12.85 %
+CSS          14 hrs 16 mins  >>-----------------------   08.20 %
 ```
 
 <!--END_SECTION:waka-->
