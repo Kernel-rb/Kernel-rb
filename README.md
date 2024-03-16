@@ -15,7 +15,7 @@ I'm a 19-year-old Computer Science student passionate about MLOps and Site Relia
     <img src="https://skillicons.dev/icons?i=py,js,rust,c,java" />
   </a>
 </p>
-<br><br>
+
 
 ## ✨ My Stats
 <p align="center">
