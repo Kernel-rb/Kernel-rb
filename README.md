@@ -18,7 +18,9 @@ I'm a 19-year-old Computer Science student passionate about MLOps and Site Relia
 
 
 ## ✨ My Stats
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Kernel-rb&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Kernel-rb)](https://leetcode.com/Kernel-rb)
+
 
 <!--START_SECTION:waka-->
 
