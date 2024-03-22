@@ -18,10 +18,7 @@ I'm a 19-year-old Computer Science student passionate about MLOps and Site Relia
 
 
 ## ✨ My Stats
-<p align="center">
-  <img alt="Saif's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kernel-rb&show_icons=true&theme=tokyonight">
-</p>
-
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Kernel-rb&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 <!--START_SECTION:waka-->
 
