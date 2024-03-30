@@ -3,7 +3,7 @@
 I'm a 19-year-old Computer Science student passionate about MLOps and Site Reliability Engineering. Here's a glimpse of my skills:
 
 - Python (intermediate to professional)
-- Rust/C, Java, and JavaScript (beginner to intermediate)
+- Rust, C and JavaScript (beginner to intermediate)
 
 - I actively participate in coding challenges on LeetCode and HackerRank to sharpen my skills.
 - Follow my coding journey on [GitHub](https://github.com/Kernel-rb) and [YouTube](https://www.youtube.com/channel/UCnnPEdrDX0LJd2yJ7Q_TnKg).
@@ -12,7 +12,7 @@ I'm a 19-year-old Computer Science student passionate about MLOps and Site Relia
 ## 📦 Toolbox
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,rust,c,java" />
+    <img src="https://skillicons.dev/icons?i=py,js,rust,c" />
   </a>
 </p>
 
