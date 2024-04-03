@@ -26,15 +26,15 @@ I'm a 19-year-old Computer Science student passionate about MLOps and Site Relia
 <!--START_SECTION:waka-->
 
 ```python
-From: 21 December 2023 - To: 31 March 2024
+From: 21 December 2023 - To: 01 April 2024
 
-Total Time: 217 hrs 42 mins
+Total Time: 220 hrs 32 mins
 
-Python        45 hrs 44 mins  >>>>>--------------------   20.84 %
-JavaScript    33 hrs 28 mins  >>>>---------------------   15.25 %
-Dart          29 hrs 54 mins  >>>----------------------   13.63 %
-Rust          29 hrs 50 mins  >>>----------------------   13.60 %
-C             18 hrs 30 mins  >>-----------------------   08.43 %
+Python        46 hrs 3 mins   >>>>>--------------------   20.72 %
+JavaScript    33 hrs 47 mins  >>>>---------------------   15.20 %
+Rust          30 hrs 50 mins  >>>----------------------   13.87 %
+Dart          29 hrs 54 mins  >>>----------------------   13.45 %
+C             18 hrs 33 mins  >>-----------------------   08.35 %
 ```
 
 <!--END_SECTION:waka-->
