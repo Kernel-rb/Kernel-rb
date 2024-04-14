@@ -26,7 +26,7 @@ I'm a 19-year-old Computer Science student passionate about MLOps and Site Relia
 <!--START_SECTION:waka-->
 
 ```python
-From: 21 December 2023 - To: 11 April 2024
+From: 21 December 2023 - To: 12 April 2024
 
 Total Time: 251 hrs 12 mins
 
