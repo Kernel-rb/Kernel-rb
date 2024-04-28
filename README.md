@@ -13,7 +13,7 @@ I'm a 19-year-old Computer Science student passionate about MLOps and Site Relia
 ## 📦 Toolbox
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,rust,c,java,js" />
+    <img src="https://skillicons.dev/icons?i=py,rust,c,java,js,neovim" />
   </a>
 </p>
 
