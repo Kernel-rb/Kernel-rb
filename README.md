@@ -7,7 +7,7 @@ I'm a 19-year-old Computer Science student passionate about MLOps and Site Relia
 
 - I actively participate in coding challenges on LeetCode and HackerRank to sharpen my skills.
 - Follow my coding journey on [GitHub](https://github.com/Kernel-rb) and [YouTube](https://www.youtube.com/channel/UCnnPEdrDX0LJd2yJ7Q_TnKg).
-- Soon, I'll be sharing blogs on [LinkedIn](https://www.linkedin.com/in/saif-matab/) && [medium](https://medium.com/@kernel.rb)  && [dev.to](https://dev.to/kernelrb) , .
+- Soon, I'll be sharing blogs on [LinkedIn](https://www.linkedin.com/in/saif-matab/) && [medium](https://medium.com/@kernel.rb)  && [dev.to](https://dev.to/kernelrb).
 - You can find more about me and my work on my personal website: [saifmatab.me](https://www.saifmatab.me/)
 <br> <br>
 ## 📦 Toolbox
