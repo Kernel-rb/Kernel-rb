@@ -1,6 +1,6 @@
 ### Hello, I'm Saif Eddine Matab, aka Kernel.rs👋
 
-I'm a 19-year-old Computer Science student passionate about MLOps and Site Reliability Engineering. Here's a glimpse of my skills:
+I'm a 20-year-old Computer Science student passionate about MLOps and Site Reliability Engineering. Here's a glimpse of my skills:
 
 - Python (intermediate to professional)
 - Rust, , Java , C and JavaScript (beginner to intermediate)
