@@ -24,7 +24,7 @@ I'm a 20-year-old Computer Science student passionate about MLOps and Site Relia
 
 
 <!--START_SECTION:waka-->
-
+<!--
 ```python
 From: 22 December 2023 - To: 19 September 2024
 
@@ -36,9 +36,9 @@ Rust            41 hrs 27 mins  >>-----------------------   09.45 %
 C               39 hrs 24 mins  >>-----------------------   08.98 %
 Dart            29 hrs 54 mins  >>-----------------------   06.82 %
 ```
-
+-->
 <!--END_SECTION:waka-->
-
+<!--->
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Kernel-rb&label=PROFILE+VIEWS" alt="Profile Views">
