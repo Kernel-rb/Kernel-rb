@@ -23,23 +23,6 @@ I'm a 20-year-old Computer Science student passionate about MLOps and Site Relia
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Kernel-rb)](https://leetcode.com/Kernel-rb)
 
 
-<!--START_SECTION:waka-->
-
-```python
-From: 22 December 2023 - To: 09 October 2024
-
-Total Time: 436 hrs 48 mins
-
-Python          97 hrs 55 mins  >>>>>>-------------------   22.26 %
-JavaScript      91 hrs 15 mins  >>>>>--------------------   20.74 %
-Rust            41 hrs 27 mins  >>-----------------------   09.42 %
-C               39 hrs 24 mins  >>-----------------------   08.95 %
-Dart            29 hrs 54 mins  >>-----------------------   06.80 %
-```
-
-<!--END_SECTION:waka-->
-<!--->
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Kernel-rb&label=PROFILE+VIEWS" alt="Profile Views">
 </div>
