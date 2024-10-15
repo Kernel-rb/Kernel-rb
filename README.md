@@ -27,5 +27,3 @@ Follow my journey:
     <img src="https://img.shields.io/badge/CodinGame-F2BB13.svg?style=for-the-badge&logo=CodinGame&logoColor=black"/>
   </a>
 </p>
-
-- Personal site: [saifmatab.me](https://www.saifmatab.me/)
